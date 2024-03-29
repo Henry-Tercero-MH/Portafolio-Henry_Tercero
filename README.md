@@ -1,6 +1,6 @@
 **Portafolio de Proyectos**
 
-Este repositorio contiene una colección de proyectos destacados desarrollados por [Henry Misael Tercero Hernández].
+Este repositorio contiene una colección de proyectos destacados desarrollados por Henry Misael Tercero Hernández.
 
 ### Proyectos
 
